@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+ <img width="400" height="280" alt="image" src="https://github.com/user-attachments/assets/90478f23-a083-47f8-bde3-a592ae8403c7" />
+  
 
-<!--
-**JubyRevc3/JubyRevc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+┆༄ 𝒜𝓉 𝓎𝑜𝓊𝓇 𝓈𝑒𝓇𝓋𝒾𝒸𝑒 . . .  ೃ┆
 
-Here are some ideas to get you started:
+ㅤㅤㅤ
+<div align="center">
+  <img width="390" height="270" alt="image" src="https://github.com/user-attachments/assets/28912641-f75f-4ea4-9bc1-8ea6944838a3" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[𝒫𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉](https://ru.pinterest.com/JubyRevc3/)ㅤㅤㅤ⟢ ⇆ ⟢ㅤㅤㅤ[𝒞𝒶𝓇𝓇𝒹](https://adelameowland.carrd.co)
